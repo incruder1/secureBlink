@@ -1,0 +1,5 @@
+{"level":"info","message":"Password reset for user: test@test.test","timestamp":"2024-03-15 12:13:06"}
+{"level":"info","message":"Authenticating user: test@test.test1","timestamp":"2024-03-15 12:48:01"}
+{"level":"info","message":"Authorizing user test@test.test1 to access","timestamp":"2024-03-15 12:52:23"}
+{"level":"info","message":"Password reset for user: test@test.test1","timestamp":"2024-03-15 12:53:05"}
+{"level":"info","message":"Password reset for user: test@test.test1","timestamp":"2024-03-15 12:53:09"}
